@@ -1,0 +1,16 @@
+# Çıkış dosyalarını ve çıktı klasörünü dışla
+outputs/
+__pycache__/
+docker_proje_için_/
+
+# Python cache ve temporary dosyalar
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Sanal ortam klasörleri
+venv/
+env/
+*.env
