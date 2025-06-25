@@ -14,3 +14,5 @@ docker_proje_için_/
 venv/
 env/
 *.env
+
+api_images/
